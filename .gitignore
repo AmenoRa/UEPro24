@@ -1,5 +1,10 @@
-# Visual Studio 2015 user specific files
+# user specific files
 .vs/
+.idea/
+Plugins/VisualStudioTools/*
+
+.gitignore
+.gitattributes
 
 # Compiled Object files
 *.slo
